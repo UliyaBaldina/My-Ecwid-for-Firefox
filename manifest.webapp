@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "name": "My Ecwid",
+    "description": "Your Ecwid Control Panel",
+    "launch_path": "/index.html",   
+    "icons": {
+        "64": "icons/ecwid_64.png",     
+    },
+    "developer": {
+        "name": "Ecwid Team",
+        "url": "http://ecwid.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+    "permissions": {
+        "systemXHR": {}
+    }
+}
